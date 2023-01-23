@@ -1,2 +1,1 @@
-# Regex-Tutorial
-Homework 17 Challenge
+# Regex Tutorial Starter Code
